@@ -1,0 +1,6 @@
+framework module Pods_PodspecLearn_Tests {
+  umbrella header "Pods-PodspecLearn_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
