@@ -1,0 +1,16 @@
+PODS:
+  - PodspecLearn (0.1.0)
+
+DEPENDENCIES:
+  - PodspecLearn (from `../`)
+
+EXTERNAL SOURCES:
+  PodspecLearn:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodspecLearn: 9a54b8dd91fe30a23139821b801a62a0540873b7
+
+PODFILE CHECKSUM: a46ed99eb83c751b870c4292de12b7cede8170f0
+
+COCOAPODS: 1.11.3
